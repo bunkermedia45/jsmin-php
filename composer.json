@@ -1,0 +1,28 @@
+{
+    "name": "rgrove/jsmin-php",
+    "type": "library",
+    "description": "[UNMAINTAINED] PHP port of Douglas Crockford's JSMin JavaScript minifier.",
+    "keywords": ["jsmin"],
+    "homepage": "[UNMAINTAINED] PHP port of Douglas Crockford's JSMin JavaScript minifier.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Douglas Crockford",
+            "email": "douglas@crockford.com",
+            "role": "jsmin.c"
+        },
+        {
+            "name": "Ryan Grove",
+            "email": "ryan@wonko.com",
+            "role": "PHP port"
+        },
+        {
+            "name": "Adam Goforth",
+            "email": "aag@adamgoforth.com",
+            "role": "Updates"
+        }
+    ],
+    "autoload": {
+        "psr-0": { "": "" }
+    }
+} 
